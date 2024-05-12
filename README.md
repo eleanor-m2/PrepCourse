@@ -1,2 +1,1 @@
-# PrepCourse
-Test
+I'm learning on how to create a new repository in Git 
